@@ -40,6 +40,8 @@
 
 ### その他
 
+- IntelliJ IDEA
+- Visual Studio
 - Github
 - Jenkins
 - Ansible
