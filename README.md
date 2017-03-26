@@ -86,12 +86,13 @@
 - Trello のイベントを ChatWork へ通知する
 - Trello の Webhook と ChatWork API を Express で構築したwebサービスでつなぐ
 - Redis でのセッション管理と MongoDB による通知設定の保存を行う
+- Heroku を使用したプロトタイプ構築
 
 #### 金融取引シミュレータ
 
 - 金融商品の取引を予め設定されているシナリオを元にして売買できるシミュレータ
 - Perl + PostgreSQL で構築されたwebアプリケーションの運用保守および改修
-- Ansible を使った環境構築とデプロイの自動化
+- Ansible を使ったAWS(EC2)上への環境構築とデプロイの自動化
 
 #### レコード会社の直販サイト
 
