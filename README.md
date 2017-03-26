@@ -4,36 +4,59 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|大田　一郎 (おおた いちろう))|
+|Blog|[書かれる予定のないブログ](http://nyamairi.hatenablog.jp/)|
+|Twitter|[@nyamairi](https://twitter.com/nyamairi)|
+|Qiita|[nyamairi](http://qiita.com/nyamairi)|
+|slides|[nyamairi](https://slid.es/nyamairi)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
+  - C#
+  - JavaScript
+  - Perl
+  - Python
+  - Ruby
+  - Java
+  - C/C++
 
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - 英語のドキュメント等について翻訳ツールを利用しながら大体の意味を把握できる
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- .NET Framework 4
+- ASP.NET MVC 3
+- Express
+- React.js + Redux
+- Vue.js + Vuex
+- Moose - Mouse
+- Ruby on Rails
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Github
+- Jenkins
+- Ansible
+- AWS
+- Heroku
 
 ## 強み
 
 ## やったことはないが興味があるもの
+
+- エンドユーザとの距離が近いサービスの開発
+- 自分自身が利用しているサービスの開発
+- NoSQL の本格的な利用
+- Scala
+- 自動テストから静的解析、デプロイまでのビルドパイプライン
+- サーバレスアーキテクチャ
+- Xamarin や Electron 等を使った同一言語によるクロスプラットフォームアプリ開発
 
 ## 登壇歴
 
