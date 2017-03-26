@@ -47,6 +47,8 @@
 - Ansible
 - AWS
 - Heroku
+- PostgreSQL
+- MySQL
 
 ## 強み
 
