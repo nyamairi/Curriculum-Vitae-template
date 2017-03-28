@@ -77,15 +77,16 @@
 #### 営業支援
 
 - 販促企画と販促実績の登録及び帳票出力システム
-- C#(Windows Forms) によるネイティブアプリケーションと C#(ASP.NET) + PostgreSQL によるwebサービス
+- C#(Windows Forms) によるネイティブアプリケーションと C#(ASP.NET) + PostgreSQL によるwebサービス構築
 - 旧システムからのデータ移行用スクリプトの作成
-- ASP.NET MVC 3 によるモバイルブラウザ用の店頭状況共有システム
+- ASP.NET MVC 3 によるモバイルブラウザ用の店頭状況共有システム構築
+- Trac のチケット更新を ChatWork へ通知するプラグインの作成
 
 #### 業務管理支援
 
 - Trello のイベントを ChatWork へ通知する
-- Trello の Webhook と ChatWork API を Express で構築したwebサービスでつなぐ
-- Redis でのセッション管理と MongoDB による通知設定の保存を行う
+- Trello の Webhook と ChatWork API を Express で構築したwebサービスでつなぐサービスの構築
+- Redis でのセッション管理と MongoDB による通知設定の保存
 - Heroku を使用したプロトタイプ構築
 
 #### 金融取引シミュレータ
@@ -113,7 +114,7 @@
 - 音楽CDや映像作品のECサイト
 - Perl + PostgreSQL で構築された EC2側とCMS側の改修+運用保守
 - 簡単なクイズサイトの構築
-- キャッシュサーバのチューニング
+- キャッシュサーバ(Squid)のチューニング
 
 ## 学歴
 
