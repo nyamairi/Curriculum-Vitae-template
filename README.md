@@ -7,7 +7,6 @@
 |Name|大田　一郎 (おおた いちろう))|
 |Blog|[書かれる予定のないブログ](http://nyamairi.hatenablog.jp/)|
 |Twitter|[@nyamairi](https://twitter.com/nyamairi)|
-|Qiita|[nyamairi](http://qiita.com/nyamairi)|
 |slides|[nyamairi](https://slid.es/nyamairi)|
 
 ## スキル
@@ -42,8 +41,10 @@
 
 - IntelliJ IDEA
 - Visual Studio
+- VSCode
 - Github
 - Jenkins
+- Docker
 - Ansible
 - AWS
 - Heroku
