@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|大田　一郎 (おおた いちろう))|
+|Name|****|
 |Blog|[書かれる予定のないブログ](http://nyamairi.hatenablog.jp/)|
 |Twitter|[@nyamairi](https://twitter.com/nyamairi)|
 |slides|[nyamairi](https://slid.es/nyamairi)|
@@ -132,7 +132,3 @@
 ### 2000/04 - 2003/03: 三重県立四日市工業高等学校
 
 - 電子機械科
-
-### 1997/04 - 2000/03: 鈴鹿市立平田野中学校
-
-### 1991/04 - 1997/03: 鈴鹿市立国府小学校
