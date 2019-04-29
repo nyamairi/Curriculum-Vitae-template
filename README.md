@@ -4,7 +4,6 @@
 
 |key|value|
 |---|-----|
-|Name|****|
 |Blog|[書かれる予定のないブログ](http://nyamairi.hatenablog.jp/)|
 |Twitter|[@nyamairi](https://twitter.com/nyamairi)|
 |slides|[nyamairi](https://slid.es/nyamairi)|
