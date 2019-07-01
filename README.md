@@ -46,8 +46,8 @@
 ||Docker|3ヶ月|CI用にDBとモックwebサーバをDocker化|
 ||Ansible|3ヶ月|既存webアプリの環境構築とリリースを自動化|
 |開発環境|Visual Studio + ReSharper|7年||
-||IntelliJ IDEA|5年|ライセンスは個人所有|
-||DataGrip|4年|ライセンスは個人所有|
+||IntelliJ IDEA|5年||
+||DataGrip|4年||
 ||Visual Studio Code|2年||
 ||Github|8年||
 ||Gitlab|3ヶ月||
