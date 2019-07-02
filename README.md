@@ -32,9 +32,9 @@
 ||JavaScript|7年|angularを使った業務システムのフロントエンド開発<br>jQueryとAjaxを用いた動的レンダリング<br>ChatWork連携を行うGoogle Chromeプラグインの作成|
 ||Perl|6年|フレームワークにMouseを使用したCMS開発<br>独自テンプレートシステムを使用したCMS開発|
 ||C/C++|半年|組み込み系システムのセーフモード用CGI作成<br>専門学校での学習2年(基礎からDirectXの利用等)|
-||Java|1年(専門学校)|専門学校でのSwing等の学習|
-||Ruby|1ヶ月(独習)|[fluentdのTeams通知プラグイン](https://github.com/nyamairi/fluent-plugin-teams)開発<br>Ruby on Railsの独習|
-||Python|1ヶ月(独習)|[TracのChatWork通知プラグイン](https://github.com/nyamairi/TracToChatwork)開発<br>Djangoの独習|
+||Java|1年|専門学校でのSwing等の学習|
+||Ruby|1ヶ月|[fluentdのTeams通知プラグイン](https://github.com/nyamairi/fluent-plugin-teams)開発<br>Ruby on Railsの独習|
+||Python|1ヶ月|[TracのChatWork通知プラグイン](https://github.com/nyamairi/TracToChatwork)開発<br>Djangoの独習|
 |フレームワーク|.NET Framework|8年|Windows FormsとASP .NETを用いたリッチクライアントの開発|
 ||ASP .NET MVC|3年|モバイルデバイス向けCMSの開発<br>POS解析webアプリの開発|
 ||Moose - Mouse|2年|不動産情報検索サイトの構築|
